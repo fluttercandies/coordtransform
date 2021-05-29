@@ -10,6 +10,7 @@ const double X_PI = pi * 3000.0 / 180.0;
 const double OFFSET = 0.00669342162296594323;
 const double AXIS = 6378245.0;
 
+/// Coord Transform Result
 class CoordResult {
   double lon, lat;
 
