@@ -1,6 +1,6 @@
 name: coordtransform
-description: Coord transform tool
-version: 1.0.0
+description: a coord transform tool, Provide BD09、GCJ02、WGS84 coordinate system mutual transform.
+version: 1.0.1
 homepage: https://github.com/fluttercandies/coordtransform
 
 environment:
